@@ -9,7 +9,7 @@ const Footer = () => {
           <img
             src={assets.logo}
             alt="logo"
-            className="mb-4 h-8 md:h-9 invert"
+            className="mb-4 h-8 md:h-9 invert opacity-80"
           />
           <p className="text-sm">
             Discover the world with us. We offer the best travel experiences
